@@ -10,21 +10,35 @@ body {
     color: white;
 }
 
-.titulo-blog {
-    color: #f00909;
+.apresentacao{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.texto-destaque {
-    color: red;
+a {
+    margin: 5px 150px;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+    background-color: purple;
+    display: flex;
 }
 
-.urgente {
-    margin: 10px;
-    border: 2px solid black;
-    padding: 5px;
-    color: red;
+img {
+    border-radius: 15px;
 }
 
-.texto-destaque2 {
-    color: blue;
+.container-1 {
+    display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+ }
+
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
+  
+  

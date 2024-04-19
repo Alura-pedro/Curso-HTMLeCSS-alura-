@@ -23,3 +23,9 @@ color: blue;
     border-radius: 10px;
 }
 
+.apresentacao {
+    display: flex;
+    align-items: center;
+    
+}
+
