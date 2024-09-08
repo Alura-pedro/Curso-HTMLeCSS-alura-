@@ -1,0 +1,14 @@
+body {
+    background-color: #63595C;
+    color: black;
+}
+
+strong {
+color: blue;
+}
+
+a {
+    color: #011936;
+    border: 1px solid #011936;
+    padding: 10px;
+}
